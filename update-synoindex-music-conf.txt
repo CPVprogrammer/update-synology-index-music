@@ -4,7 +4,7 @@ MP3 WAV
 none
 #user: none, root, transmission, ftp, etc.
 none
-#directory for log/filename --> none or path/filename
+#directory for log/filename --> none, or path, or path/filename. for paths only must end with /
 none
 #directories to treat --> 0 recursive, 1 no recursive
 1 /volume1
