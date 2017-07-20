@@ -19,7 +19,7 @@ MP3
 -mmin -60
 #user: none, root, transmission, ftp, etc.
 transmission
-#directory for log/filename --> none or path or path/filename
+#directory for log/filename --> none, or path, or path/filename. for paths only must end with /
 /volume1/music/
 #directories to treat --> 0 recursive, 1 no recursive
 0 /volume1/music/sounds
